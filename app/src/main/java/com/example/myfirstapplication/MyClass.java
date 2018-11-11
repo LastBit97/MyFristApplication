@@ -1,9 +1,9 @@
 package com.example.myfirstapplication;
 
 public class MyClass {
-    static String str ="hello world";
+    static String str ="Dmitry";
 
     public static void main(String[] args) {
-        System.out.println(str);
+        System.out.println("Hello"+str);
     }
 }
